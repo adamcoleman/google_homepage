@@ -58,8 +58,6 @@ a:hover {
 .search {
 	height: 40px;
 	padding-bottom: 10px;
-}
-.search {
 	width: 475px;
 	margin: auto;
 }
@@ -103,15 +101,6 @@ input {
 	display: inline;
 	text-align: center;
 	line-height: normal;
-}
-.footer_left {
-	float: left;
-}
-.footer_right {
-	float: right;
-	margin-right: 10px;
-}
-.footer ul li {
 	margin: 15px;
 	text-align: center;
 	position: relative;
@@ -120,3 +109,11 @@ input {
 	color: #efefef;
 	padding-bottom: 10px;
 }
+.footer_left {
+	float: left;
+}
+.footer_right {
+	float: right;
+	margin-right: 10px;
+}
+
